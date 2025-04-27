@@ -37,11 +37,12 @@ Package  Initialization
 
 9) How  many  times  is  __init__  module  executed ?  --->  Just  once
 
-10) import  p1
-      import  p1 . mod1
-      from  p1  import  mod1
-      from  p1 . mod1  import  *
-      When  is  __init__  module  executed ?   --->  Only  once  and  for  the  first  import
+10) import  p1  --> Here __init__ module is executed , only once
+    import  p1 . mod1
+    from  p1  import  mod1
+    from  p1 . mod1  import  *
+
+    When  is  __init__  module  executed ?   --->  Only  once  and  for  the  first  import
 
 11) What  does  __init__   module  contain  ?  ---> Any  Python  code  such  as   variables ,  functions , classes , statements
 									      and  so  on  (Just  like  other  modules)

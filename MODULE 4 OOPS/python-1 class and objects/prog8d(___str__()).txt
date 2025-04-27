@@ -13,7 +13,7 @@ __str__()    method
 5) How  is  __str__()  method  different  from  __dict__ ?  --->   __str__()  is  a  string  representation  of  the  object  and
 												       __dict__  is   a  dictionary  representation  of  the  object
 
-6) What  is  special  about  __str__()  method ?  --->  It  is  automatically  executed  when  we  print  an  object
+6) What  is  special  about  __str__()  method ?  --->  It  is  automatically  executed  when  we  print  an  object  (---IMPORTANT---)
 
 7) What  does  print(object)  do ? --->  Prints  that  string  which  is   returned  by   __str__()  method
 

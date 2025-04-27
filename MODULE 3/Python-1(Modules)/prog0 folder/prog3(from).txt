@@ -22,8 +22,7 @@ from  statement
 8) from  module  import  *
     What  does  *  indicate  ?  --->  All  the  members  of  module
 
-9) How  to  access  members  of  the  module  after  they  are  imported ?  --->
-                                                                                                          Just  member  name  without  modulename  prefix
+9) How  to  access  members  of  the  module  after  they  are  imported ?  ---> Just  member  name  without  modulename  prefix
 
 10) Can  from  statement  be  used  in  the  middle  of  the  program ?  --->  Yes
 
