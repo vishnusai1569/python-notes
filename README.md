@@ -1,3 +1,4 @@
+**Module-1** 
 1) Types  of  objects  
     a) Non-sequence
     b) Sequence
@@ -19,8 +20,8 @@
 13) Tuple , functions , methods , nested  tuple
 14) Set , functions , methods , comprehension
 15) Dictionary , functions , methods , comprehension
-Module - 2(Functions)
 ------------------------------------------------------------------------------------------------------------
+**Module - 2(Functions)**
 1) User  defined  functions
     Eg: Definition  and  call
 2)  Arguments
@@ -32,13 +33,13 @@ Module - 2(Functions)
 6) Decorators
 7) Generators
 ------------------------------------------------------------------------------------------------------------
-Module-3(Modules  and  packages)
+**Module-3(Modules  and  packages)**
 1) Modules
 2) time  module
 3) random module
 4) packages
 ------------------------------------------------------------------------------------------------------------
-Module-4(OOPS)
+**Module-4(OOPS)**
 1) class  and  object
 2) Constructor
 3) Destructor
@@ -54,7 +55,7 @@ Module-4(OOPS)
 13) Inner  class
 14) OOPS  concepts
 ------------------------------------------------------------------------------------------------------------
-Module-5(Advanced)
+**Module-5(Advanced)**
 1) PDBC
 2) os  module
 3) Files
